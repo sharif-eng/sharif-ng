@@ -222,14 +222,6 @@ Hands-on testing of vulnerable web applications using common offensive security 
 
 <a href="#">View Project →</a>
 
-### 🔹 PhantomRecon
-
-Python-based reconnaissance and enumeration tool developed as part of ongoing security tooling work.
-
-<a href="#">View Project →</a>
-
----
-
 # ☁️ Cloud Security Projects
 
 ### 🔹 AWS Secure Cloud Environment
@@ -259,18 +251,6 @@ Cloud logging and monitoring using AWS security and observability services.
 ### 🔹 Cloud Incident Response Lab
 
 Investigation of simulated cloud security incidents using logs, alerts, identity activity, and infrastructure evidence.
-
-<a href="#">View Project →</a>
-
-### 🔹 Azure Security Lab
-
-Practical exploration of Azure identity, networking, monitoring, and security controls.
-
-<a href="#">View Project →</a>
-
-### 🔹 Google Cloud Security Lab
-
-Practical exploration of Google Cloud identity, networking, monitoring, and security controls.
 
 <a href="#">View Project →</a>
 
