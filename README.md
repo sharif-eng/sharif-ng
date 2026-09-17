@@ -78,7 +78,7 @@ AWS Security • Cloud IAM • VPC Security • EC2 Security • S3 Security •
 | Skill                       | Project                                         |
 | --------------------------- | ----------------------------------------------- |
 | AWS IAM & Least Privilege   | <a href="#">AWS IAM Security Lab</a>            |
-| AWS VPC Security            | <a href="#">AWS Secure VPC Lab</a>              |
+| AWS VPC Security            | <a href="https://github.com/sharif-eng/AWS-VPC/">AWS Secure VPC Lab</a> |
 | EC2 Security                | <a href="#">AWS EC2 Security Lab</a>            |
 | S3 Security                 | <a href="#">AWS S3 Security Lab</a>             |
 | Cloud Logging & Monitoring  | <a href="#">AWS Security Monitoring Lab</a>     |
