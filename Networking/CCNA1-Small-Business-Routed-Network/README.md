@@ -1,4 +1,4 @@
-# 🌐 Small Business Routed Network | CCNA 1 Packet Tracer Project
+<h1 align="center"> Small Business Routed Network | CCNA 1 Packet Tracer Project</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/CCNA%201-Introduction%20to%20Networks-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="CCNA 1: Introduction to Networks" />
