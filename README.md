@@ -28,14 +28,10 @@ My portfolio is organized around three interconnected areas:
 
 ## 🌐 Networking
 
-| Skill                           | Project                                       |
-| ------------------------------- | --------------------------------------------- |
-| TCP/IP & Fundamentals           | Network Fundamentals Lab                      |
-| Routing & Switching             | Enterprise Network Lab                        |
-| DNS & DHCP                      | Network Services Lab                          |
-| Troubleshooting                 | Network Troubleshooting Lab                   |
-| Traffic Analysis                | Network Security Lab                          |
-| Security & Segmentation         | Network Security Architecture                 |
+| Skill                           | Project                                                                                       |
+| ------------------------------- | ----------------------------------------------------------------------------------------------|
+| Packet Tracer & LAN Setup       | [Small-Office-LAN](https://github.com/sharif-eng/sharif-ng/Networking/CCNA1-Small-Office-LAN) |
+
 
 ---
 
@@ -55,14 +51,14 @@ My portfolio is organized around three interconnected areas:
 
 ## ☁️ Cloud Security
 
-| Skill                       | Project                                         |
-| --------------------------- | ----------------------------------------------- |
-| AWS IAM & Least Privilege   | AWS IAM Security Lab                            |
-| AWS VPC Security            | [AWS Secure VPC Lab](https://github.com/sharif-eng/AWS-VPC/) |
-| EC2 Security                | AWS EC2 Security Lab                            |
-| S3 Security                 | AWS S3 Security Lab                             |
-| Cloud Logging & Monitoring  | AWS Security Monitoring Lab                     |
-| Secure Architecture         | AWS Secure Architecture Project                 |
+| Skill                       | Project                                                                              |
+| --------------------------- | ------------------------------------------------------------------------------------ |
+| AWS IAM & Least Privilege   | [AWS IAM Lab]                                                                        |
+| AWS VPC Security            | [AWS Secure VPC Lab](https://github.com/sharif-eng/sharif-ng/Cloud_Security/AWS-VPC) |
+| EC2 Security                | [AWS EC2 Lab]                                                                        |
+| S3 Security                 | [AWS S3  Lab]                                                                        |
+| Cloud Logging & Monitoring  | [AWS Security Monitoring Lab]                                                        |
+| Secure Architecture         | [AWS Secure Architecture Project]                                                    |
 
 ---
 
