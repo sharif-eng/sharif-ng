@@ -45,3 +45,41 @@ Screenshots will be added to the `assets/` folder as the lab evidence is uploade
 - `assets/09-metasploit-testing.png`
 - `assets/10-web-application-testing.png`
 - `assets/11-cyber-kill-chain.png`
+
+## 👨‍💻 Author
+
+**Angole Sharif Abubakar**  
+BSc Computer Science | Cybersecurity | Cloud Security | Networking
+
+## 🧭 Steps
+
+1. Set up the isolated VirtualBox lab.
+2. Deploy Kali Linux as the testing machine.
+3. Deploy Metasploitable as the intentionally vulnerable target.
+4. Configure the lab network and verify connectivity.
+5. Perform reconnaissance and service enumeration with Nmap.
+6. Assess exposed services and vulnerabilities.
+7. Perform controlled exploitation with Metasploit.
+8. Test the vulnerable web applications.
+9. Map the activity to the Cyber Kill Chain.
+10. Document observations and evidence.
+
+## ⚠️ Challenges
+
+The main challenge was maintaining reliable communication between the virtual machines while keeping the vulnerable target isolated from unintended networks. Another challenge was interpreting scan results and separating useful findings from normal exposed services.
+
+## 📚 Lessons Learned
+
+- Enumeration should come before exploitation.
+- Network visibility is essential for effective security testing.
+- Vulnerability findings need to be validated rather than assumed exploitable.
+- An isolated lab provides a safe environment for practicing offensive security.
+- Documenting each stage makes technical investigations easier to reproduce.
+
+## ✅ Conclusion
+
+This lab strengthened my practical understanding of reconnaissance, enumeration, vulnerability assessment, controlled exploitation, and web application security in a controlled environment.
+
+## 📌 Project Status
+
+**Completed**
