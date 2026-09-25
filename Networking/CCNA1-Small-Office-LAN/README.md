@@ -234,3 +234,31 @@ Built as part of my practical progression through Cisco Networking Academy CCNA 
 Angole Sharif Abubakar
 
 BSc Computer Science | Cybersecurity | Cloud Security | Networking
+
+## 👨‍💻 Author
+
+**Angole Sharif Abubakar**  
+BSc Computer Science | Cybersecurity | Cloud Security | Networking
+
+## ⚠️ Challenges
+
+The main challenge was maintaining consistent IPv4 addressing and ensuring that the router, switch, and end devices were configured for the same LAN. Troubleshooting was used to identify and correct a configuration issue before final verification.
+
+## 📚 Lessons Learned
+
+- Every host needs correct addressing and a valid default gateway for the intended traffic.
+- Router interface status is an important first troubleshooting check.
+- Basic commands such as ping and show ip interface brief provide useful visibility.
+- Saving the configuration is necessary when a lab is expected to persist after restart.
+
+## 🧩 Project Workflow
+
+**Topology Design → IP Addressing → Device Configuration → Connectivity Testing → Troubleshooting → Verification → Configuration Save**
+
+## ✅ Conclusion
+
+This project established a practical foundation in LAN design, IPv4 addressing, Cisco IOS configuration, connectivity testing, and troubleshooting.
+
+## 📌 Project Status
+
+**Completed**
