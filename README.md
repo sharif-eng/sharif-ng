@@ -1,115 +1,230 @@
-# Hello, I'm Angole Sharif Abubakar
+<div align="center">
 
-<a href="https://linkedin.com/in/angole-sharif-abubakar"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://github.com/sharif-eng"><img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=github&logoColor=white" /></a>
+# 👋 Angole Sharif Abubakar
 
----
+### Cloud Security • Cybersecurity • Networking
 
-## Introduction
+**BSc Computer Science | Busitema University | Class of 2026**
 
-I am a Computer Science graduate with a practical interest in **Cloud Security, Cybersecurity, and Networking**.
+<a href="https://linkedin.com/in/angole-sharif-abubakar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/sharif-eng"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-My primary career focus is **Cloud Security Engineering**, with AWS as my main cloud platform and Azure and Google Cloud as expanding areas of focus.
+<br/>
 
-My approach to security starts from the foundation: understanding **networks, systems, identities, infrastructure, and threats**, then applying security controls to protect and monitor them.
+> Building practical skills at the intersection of **cloud infrastructure, cybersecurity, and networking**, with a primary focus on **Cloud Security Engineering**.
 
----
-
-# 🎯 Objective
-
-To develop into a **Cloud Security Engineer** capable of designing, implementing, monitoring, and securing cloud infrastructure.
-
-My portfolio is organized around three interconnected areas:
-
-- 🌐 **Networking** | Network fundamentals, routing, switching, IPv4 addressing, and troubleshooting
-- 🛡️ **Cybersecurity** | SOC, SIEM, IAM, Active Directory security, phishing analysis, vulnerability assessment, and penetration testing
-- ☁️ **Cloud Security** | AWS networking, VPC security, secure architecture, and cloud infrastructure security
+</div>
 
 ---
 
-# 🧠 Skills & Projects
+## ☁️ Career Focus
+
+My primary direction is **Cloud Security Engineering**, with **AWS** as my main cloud platform.
+
+I am building toward this path through practical work across three connected areas:
+
+| ☁️ Cloud Security | 🛡️ Cybersecurity | 🌐 Networking |
+|---|---|---|
+| AWS VPC & cloud networking | SOC & SIEM | IPv4 & subnetting |
+| Cloud security controls | IAM & Active Directory | Switching |
+| Secure infrastructure | Phishing investigation | Routing |
+| Cloud security engineering | Vulnerability assessment | Troubleshooting |
+
+The goal is to understand how infrastructure is **designed, connected, protected, monitored, and investigated**.
+
+---
+
+# 🚀 Featured Projects
+
+### ☁️ Cloud Security
+
+**[AWS VPC Security Lab](https://github.com/sharif-eng/sharif-ng/tree/main/Cloud_Security/AWS-VPC-Security-Lab)**
+
+Practical AWS networking lab covering VPC design, IPv4 CIDR addressing, subnets, route tables, Internet Gateway configuration, security groups, connectivity, and cloud-network security fundamentals.
+
+**AWS • VPC • Subnets • Routing • Security Groups**
+
+### 🛡️ Cybersecurity
+
+**[Wazuh Active Directory Security Monitoring Lab](https://github.com/sharif-eng/sharif-ng/tree/main/Cybersecurity/Wazuh-Active-Directory-Security-Monitoring-Lab)**
+
+A home SOC-style environment using Wazuh, Docker, Ubuntu Server, Windows endpoints, and Active Directory to collect telemetry, monitor security events, investigate alerts, and troubleshoot endpoint visibility.
+
+**Wazuh • SIEM • Active Directory • Docker • Windows**
+
+**[Active Directory IAM & Group Policy Security Lab](https://github.com/sharif-eng/sharif-ng/tree/main/Cybersecurity/AD-IAM)**
+
+Practical identity and access management environment covering organizational units, security groups, password policy, account lockout, auditing, and centralized Group Policy.
+
+**Active Directory • IAM • GPO • Access Control • Windows Security**
+
+### 🌐 Networking
+
+**[Small Business Routed Network](https://github.com/sharif-eng/sharif-ng/tree/main/Networking/CCNA1-Small-Business-Routed-Network)**
+
+Two-site routed network using separate LANs, a point-to-point WAN, IPv4 addressing, static routes, and end-to-end connectivity testing.
+
+**Cisco • Packet Tracer • IPv4 • Static Routing • Troubleshooting**
+
+### 🎓 Final Year Project
+
+**[Web-Based AI-Powered Internship Management System](https://github.com/sharif-eng/sharif-ng/tree/main/Final-Year-Project)**
+
+Completed BSc Computer Science final-year project developed for internship management at Busitema University. The system brings together internship applications, placements, weekly logs, reports, supervision, evaluations, evidence, analytics, notifications, and AI-assisted functionality.
+
+**React • TypeScript • Next.js • Node.js • Express • SQLite • Prisma • Gemini AI • Docker**
+
+---
+
+# 🧰 Project Portfolio
 
 ## 🌐 Networking
 
-| Skill | Project |
-| --- | --- |
-| LAN Design & IPv4 | [CCNA 1 Small Office LAN](https://github.com/sharif-eng/sharif-ng/tree/main/Networking/CCNA1-Small-Office-LAN) |
-| Routing & Static Routes | [CCNA 1 Small Business Routed Network](https://github.com/sharif-eng/sharif-ng/tree/main/Networking/CCNA1-Small-Business-Routed-Network) |
-
----
+| Project | Focus |
+|---|---|
+| [CCNA 1 Small Office LAN](https://github.com/sharif-eng/sharif-ng/tree/main/Networking/CCNA1-Small-Office-LAN) | LAN design, IPv4 addressing & connectivity |
+| [CCNA 1 Small Business Routed Network](https://github.com/sharif-eng/sharif-ng/tree/main/Networking/CCNA1-Small-Business-Routed-Network) | Routing, WAN addressing & static routes |
 
 ## 🛡️ Cybersecurity
 
-| Skill | Project |
-| --- | --- |
-| Penetration Testing & Vulnerability Assessment | [Kali Linux & Metasploitable Cybersecurity Lab](https://github.com/sharif-eng/sharif-ng/tree/main/Cybersecurity/Kali-Linux-Metasploitable-Lab) |
-| Active Directory Security | [Active Directory Enterprise Security Lab](https://github.com/sharif-eng/sharif-ng/tree/main/Cybersecurity/Active-Directory-Enterprise-Security-Lab) |
-| Identity & Access Management | [Active Directory IAM & Group Policy Security Lab](https://github.com/sharif-eng/sharif-ng/tree/main/Cybersecurity/AD-IAM) |
-| SIEM & Security Monitoring | [Wazuh Active Directory Security Monitoring Lab](https://github.com/sharif-eng/sharif-ng/tree/main/Cybersecurity/Wazuh-Active-Directory-Security-Monitoring-Lab) |
-| Email Security | [Email Header Analysis](https://github.com/sharif-eng/sharif-ng/tree/main/Cybersecurity/Email-Header-Analysis) |
-| Phishing Investigation | [Phishing Investigation](https://github.com/sharif-eng/sharif-ng/tree/main/Cybersecurity/Phishing-Investigation) |
-
----
+| Project | Focus |
+|---|---|
+| [Kali Linux & Metasploitable Lab](https://github.com/sharif-eng/sharif-ng/tree/main/Cybersecurity/Kali-Linux-Metasploitable-Lab) | Reconnaissance, enumeration & controlled testing |
+| [Active Directory Enterprise Security Lab](https://github.com/sharif-eng/sharif-ng/tree/main/Cybersecurity/Active-Directory-Enterprise-Security-Lab) | Windows domain & centralized authentication |
+| [Active Directory IAM & Group Policy](https://github.com/sharif-eng/sharif-ng/tree/main/Cybersecurity/AD-IAM) | IAM, groups, OUs & security policies |
+| [Wazuh Active Directory Monitoring](https://github.com/sharif-eng/sharif-ng/tree/main/Cybersecurity/Wazuh-Active-Directory-Security-Monitoring-Lab) | SIEM, endpoint telemetry & alert investigation |
+| [Email Header Analysis](https://github.com/sharif-eng/sharif-ng/tree/main/Cybersecurity/Email-Header-Analysis) | Email metadata & investigation |
+| [Phishing Investigation](https://github.com/sharif-eng/sharif-ng/tree/main/Cybersecurity/Phishing-Investigation) | IOC extraction, URL/domain analysis & triage |
 
 ## ☁️ Cloud Security
 
-| Skill | Project |
-| --- | --- |
-| AWS VPC & Cloud Networking | [AWS VPC Security Lab](https://github.com/sharif-eng/sharif-ng/tree/main/Cloud_Security/AWS-VPC-Security-Lab) |
+| Project | Focus |
+|---|---|
+| [AWS VPC Security Lab](https://github.com/sharif-eng/sharif-ng/tree/main/Cloud_Security/AWS-VPC-Security-Lab) | VPC architecture, routing & network security |
+
+## 🎓 Academic Project
+
+| Project | Focus |
+|---|---|
+| [Web-Based AI-Powered Internship Management System](https://github.com/sharif-eng/sharif-ng/tree/main/Final-Year-Project) | Full-stack internship management, analytics & AI-assisted workflows |
 
 ---
 
-# 🛠️ Tools
+# 🛠️ Technology Stack
 
-<p>
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge&logo=nmap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wazuh-005571?style=for-the-badge&logo=wazuh&logoColor=white" />
-  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
+<div align="center">
+
+### Cloud & Infrastructure
+
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+
+### Cybersecurity
+
+<img src="https://img.shields.io/badge/Wazuh-5C2D91?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+
+### Networking
+
+<img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/Packet%20Tracer-1BA0D7?style=for-the-badge" />
+<img src="https://img.shields.io/badge/IPv4-181717?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Static%20Routing-2E8B57?style=for-the-badge" />
+
+### Development
+
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+
+</div>
 
 ---
 
 # 📜 Certifications & Training
 
 - **ISC2 Certified in Cybersecurity (CC)**
-- **ICDFA Certified Cloud Security Engineer (CCSE)** *(in progress)*
-- Cisco Ethical Hacking
-- Splunk Cybersecurity Defense Analyst
-- Cisco Networking Basics
-- ALX Cybersecurity
-- TryHackMe Training
+- **ICDFA Certified Cloud Security Engineer (CCSE)**, in progress
+- **ALX Cybersecurity**
+- **Cisco Ethical Hacking**
+- **Cisco Networking Basics**
+- **Splunk Cybersecurity Defense Analyst**
+- **TryHackMe Training**
+- **ALX Data Analytics**
+- **ALX AI / Professional Foundation Training**
 
 ---
 
-# 🧪 Learning Workflow
+# 🔬 How I Learn
 
-<p>
-  <img src="https://img.shields.io/badge/Learn-4CAF50?style=for-the-badge&logo=bookstack&logoColor=white" />
-  <img src="https://img.shields.io/badge/Build-2196F3?style=for-the-badge&logo=hammer&logoColor=white" />
-  <img src="https://img.shields.io/badge/Test-9C27B0?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Troubleshoot-FF9800?style=for-the-badge&logo=bug&logoColor=white" />
-  <img src="https://img.shields.io/badge/Secure-795548?style=for-the-badge&logo=shield&logoColor=white" />
-  <img src="https://img.shields.io/badge/Document-607D8B?style=for-the-badge&logo=markdown&logoColor=white" />
-  <img src="https://img.shields.io/badge/Improve-673AB7?style=for-the-badge&logo=progress&logoColor=white" />
-</p>
+<div align="center">
+
+**LEARN** → **BUILD** → **TEST** → **TROUBLESHOOT** → **SECURE** → **DOCUMENT** → **IMPROVE**
+
+</div>
+
+I use hands-on labs and projects to turn concepts into practical experience. Each project is documented with its environment, implementation process, technical details, challenges, lessons learned, and evidence.
 
 ---
 
-# 🎯 Conclusion & Learning Sources
+# 📌 Portfolio Structure
 
-My career direction is **Cloud Security Engineering**, with AWS as my primary platform and growing exposure to Azure and Google Cloud.
+```text
+sharif-ng/
+│
+├── ☁️ Cloud_Security/
+│   └── AWS-VPC-Security-Lab/
+│
+├── 🛡️ Cybersecurity/
+│   ├── Kali-Linux-Metasploitable-Lab/
+│   ├── Active-Directory-Enterprise-Security-Lab/
+│   ├── AD-IAM/
+│   ├── Wazuh-Active-Directory-Security-Monitoring-Lab/
+│   ├── Email-Header-Analysis/
+│   └── Phishing-Investigation/
+│
+├── 🌐 Networking/
+│   ├── CCNA1-Small-Office-LAN/
+│   └── CCNA1-Small-Business-Routed-Network/
+│
+└── 🎓 Final-Year-Project/
+    └── Web-Based AI-Powered Internship Management System
+```
 
-I am building this specialization around three complementary areas:
+---
 
-- ☁️ **Cloud Security** | ICDFA, AWS, Azure, and Google Cloud
-- 🛡️ **Cybersecurity** | LetsDefend, TryHackMe, Hack The Box, ALX, Cisco NetAcad, and Splunk
-- 🌐 **Networking** | Cisco networking fundamentals and practical Packet Tracer labs
+# 🤝 Open to Opportunities
+
+I am interested in early-career opportunities involving:
+
+**Cloud Security • Cybersecurity • SOC • Network Operations • Cloud Infrastructure • IT Security**
+
+I am particularly interested in environments where I can continue learning through **hands-on work, mentorship, troubleshooting, and real infrastructure**.
+
+---
+
+<div align="center">
+
+### 📍 Uganda | 🎓 Computer Science | ☁️ Cloud Security Focus
+
+**Building. Testing. Securing. Documenting.**
+
+</div>
+
+---
+
+## Author
+
+**Angole Sharif Abubakar**  
+BSc Computer Science | Cybersecurity | Cloud Security | Networking
