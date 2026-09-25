@@ -1,31 +1,33 @@
-# ☁️ Cloud Security Projects – Angole Sharif Abubakar
+# ☁️ Cloud Security Projects | Angole Sharif Abubakar
 
-<p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Cloud%20Security-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud%20Engineering-0078D4?style=for-the-badge" />
 </p>
 
 ---
 
 ## Introduction
 
-This repository contains my **Cloud Security labs and projects**, focused on securing cloud infrastructure and services.  
-Projects here demonstrate skills in **AWS IAM, VPC, EC2, S3, monitoring, secure architecture, and incident response**.
+This section contains my practical **Cloud Security** work, with a primary focus on AWS.
 
----
+The projects are built around secure cloud infrastructure, identity and access management, networking, monitoring, and security controls.
 
-## 📂 Contents
+## 📂 Projects
 
-- **AWS IAM Security Lab**  
-- **AWS VPC Security Lab**  
-- **AWS EC2 Security Lab**  
-- **AWS S3 Security Lab**  
-- **AWS Security Monitoring Lab**  
-- **AWS Secure Architecture Project**
+### ☁️ AWS VPC Security Lab
 
----
+A practical AWS networking and security lab focused on building and securing a Virtual Private Cloud environment.
 
-## 🎯 Purpose
+**Focus:** VPC • Subnets • Routing • Security Groups • Network Security
 
-This repo serves as a **portfolio of cloud security skills**, showing my ability to design, implement, and secure cloud environments with AWS as the primary platform.
+🔗 [View Project](https://github.com/sharif-eng/AWS-VPC)
+
+## 🎯 Skills Demonstrated
+
+**AWS • Cloud Networking • VPC Security • Infrastructure Security • Secure Architecture**
+
+## 🚀 Direction
+
+Future cloud projects will be added here as they are completed, including deeper work in IAM, EC2, S3, security monitoring, and cloud incident response.
