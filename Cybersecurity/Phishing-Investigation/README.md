@@ -36,3 +36,38 @@ Add screenshots to the `assets/` folder.
 - `assets/03-url-analysis.png`
 - `assets/04-domain-analysis.png`
 - `assets/05-investigation-findings.png`
+
+## 👨‍💻 Author
+
+**Angole Sharif Abubakar**  
+BSc Computer Science | Cybersecurity | Cloud Security | Networking
+
+## 🧭 Steps
+
+1. Review the suspicious email and available artifacts.
+2. Identify social-engineering indicators.
+3. Examine sender information and message characteristics.
+4. Analyze suspicious URLs and domains.
+5. Extract indicators of compromise.
+6. Map relevant observations to attack techniques.
+7. Correlate the evidence.
+8. Document the investigation findings.
+
+## ⚠️ Challenges
+
+Phishing investigations require separating legitimate-looking content from meaningful indicators. URLs, domains, sender information, and message context must be considered together rather than relying on a single suspicious characteristic.
+
+## 📚 Lessons Learned
+
+- Phishing analysis benefits from a structured workflow.
+- URLs and domains can provide important investigation leads.
+- Indicators of compromise should be recorded systematically.
+- Evidence-based analysis is more reliable than assumptions based on appearance alone.
+
+## ✅ Conclusion
+
+This investigation strengthened my practical understanding of phishing analysis, IOC identification, structured SOC investigation, and security documentation.
+
+## 📌 Project Status
+
+**Completed**
