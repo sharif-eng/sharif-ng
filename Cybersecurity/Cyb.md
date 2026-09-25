@@ -1,31 +1,31 @@
-# 🛡️ Cybersecurity Projects – Angole Sharif Abubakar
+# 🛡️ Cybersecurity Projects | Angole Sharif Abubakar
 
-<p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Cybersecurity-111111?style=for-the-badge" />
   <img src="https://img.shields.io/badge/SOC-000000?style=for-the-badge&logo=splunk&logoColor=white" />
   <img src="https://img.shields.io/badge/PenTesting-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Web_Security-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
 </p>
 
 ---
 
 ## Introduction
 
-This repository contains my **Cybersecurity labs and projects**, focused on SOC operations, IAM, detection, and offensive security.  
-Projects here demonstrate skills in **SIEM, log analysis, incident response, Active Directory security, vulnerability assessment, and penetration testing**.
+This section contains my practical **Cybersecurity** labs and investigations covering identity and access management, security monitoring, penetration testing, vulnerability assessment, and security analysis.
 
----
+## 📂 Projects
 
-## 📂 Contents
+### 🔐 Active Directory IAM & Security Lab
 
-- **IAM & SOC Home Lab**  
-- **SOC Investigation Lab**  
-- **Active Directory Security Lab**  
-- **Vulnerability Assessment Lab**  
-- **Penetration Testing Labs**  
-- **Web Application Security Lab**
+A practical Active Directory environment focused on identity management, users, groups, organizational units, Group Policy, password security, account lockout, and access control.
 
----
+📁 [View Project](./AD-IAM)
 
-## 🎯 Purpose
+> Note: The existing AD-IAM entry in the repository is currently a file rather than a project directory, so its project README structure needs cleanup before it can be published as a standalone project.
 
-This repo serves as a **portfolio of cybersecurity skills**, showing my ability to detect, investigate, and respond to threats while practicing offensive security techniques.
+## 🎯 Skills Demonstrated
+
+**Active Directory • IAM • Group Policy • Access Control • Windows Security • Security Monitoring • Penetration Testing • Vulnerability Assessment**
+
+## 🚀 Direction
+
+Additional completed cybersecurity projects will be added here as their actual project folders and READMEs are published.
