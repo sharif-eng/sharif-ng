@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 900" role="img" aria-labelledby="title desc">
+<title id="title">How I Learn</title>
+<desc id="desc">A circular seven-step learning workflow: Learn, Build, Test, Troubleshoot, Secure, Document, Improve.</desc>
+<rect width="900" height="900" rx="36" fill="#ffffff"/>
+<g transform="translate(450 450)">
+<circle r="285" fill="none" stroke="#e5e7eb" stroke-width="86"/>
+<g fill="none" stroke-width="86" transform="rotate(-90)">
+<circle r="285" stroke="#2563eb" stroke-dasharray="245 1547" stroke-dashoffset="0"/>
+<circle r="285" stroke="#7c3aed" stroke-dasharray="245 1547" stroke-dashoffset="-257"/>
+<circle r="285" stroke="#0891b2" stroke-dasharray="245 1547" stroke-dashoffset="-514"/>
+<circle r="285" stroke="#16a34a" stroke-dasharray="245 1547" stroke-dashoffset="-771"/>
+<circle r="285" stroke="#d97706" stroke-dasharray="245 1547" stroke-dashoffset="-1028"/>
+<circle r="285" stroke="#dc2626" stroke-dasharray="245 1547" stroke-dashoffset="-1285"/>
+<circle r="285" stroke="#db2777" stroke-dasharray="245 1547" stroke-dashoffset="-1542"/>
+</g>
+<circle r="205" fill="#ffffff"/>
+<text text-anchor="middle" y="-10" font-family="Arial,Helvetica,sans-serif" font-size="32" font-weight="700" fill="#111827">HOW I LEARN</text>
+<text text-anchor="middle" y="32" font-family="Arial,Helvetica,sans-serif" font-size="19" fill="#6b7280">Learn • Build • Test • Improve</text>
+</g>
+<g font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="700" fill="#111827">
+<text x="450" y="92" text-anchor="middle">LEARN</text>
+<text x="725" y="245" text-anchor="middle">BUILD</text>
+<text x="760" y="610" text-anchor="middle">TEST</text>
+<text x="575" y="795" text-anchor="middle">TROUBLESHOOT</text>
+<text x="325" y="795" text-anchor="middle">SECURE</text>
+<text x="140" y="610" text-anchor="middle">DOCUMENT</text>
+<text x="175" y="245" text-anchor="middle">IMPROVE</text>
+</g>
+</svg>
