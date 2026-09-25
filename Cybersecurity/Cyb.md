@@ -39,4 +39,5 @@ Structured analysis of suspicious email activity, phishing indicators, URLs, dom
 
 ## 📸 Project Evidence
 
-Each project contains an **assets/** folder reserved for screenshots and lab evidence. GitHub supports relative image paths in Markdown, so screenshots can be displayed directly from those folders once uploaded. citeturn0search0
+Each project contains an **assets/** folder reserved for screenshots and lab evidence. Each project contains an **assets/** folder reserved for screenshots and lab evidence.
+ citeturn0search0
