@@ -48,3 +48,41 @@ Add screenshots to the `assets/` folder.
 - `assets/09-security-events.png`
 - `assets/10-alert-investigation.png`
 - `assets/11-ad-monitoring.png`
+
+## 👨‍💻 Author
+
+**Angole Sharif Abubakar**  
+BSc Computer Science | Cybersecurity | Cloud Security | Networking
+
+## 🧭 Steps
+
+1. Prepare the Ubuntu Server environment.
+2. Deploy the Wazuh manager.
+3. Prepare the Windows Server Domain Controller.
+4. Install and configure Wazuh agents on the Windows endpoints.
+5. Verify that the agents connect to the manager.
+6. Generate and collect endpoint security events.
+7. Review events and alerts in the Wazuh dashboard.
+8. Investigate relevant security events.
+9. Monitor activity across the Active Directory environment.
+10. Document the investigation evidence.
+
+## ⚠️ Challenges
+
+Agent connectivity and event visibility required careful troubleshooting. Small configuration issues on endpoints can prevent an agent from appearing correctly or reduce the quality of collected telemetry.
+
+## 📚 Lessons Learned
+
+- SIEM monitoring depends on reliable log collection.
+- Endpoint agents provide important visibility into host activity.
+- Alerts require investigation and context before conclusions are made.
+- Active Directory events can provide useful security monitoring data.
+- A functional SOC lab combines endpoint telemetry, analysis, and investigation.
+
+## ✅ Conclusion
+
+This project strengthened my practical SOC skills by integrating Wazuh with an Active Directory environment and working through endpoint monitoring, alert review, and security investigation.
+
+## 📌 Project Status
+
+**Completed**
