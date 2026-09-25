@@ -4,28 +4,39 @@
   <img src="https://img.shields.io/badge/Cybersecurity-111111?style=for-the-badge" />
   <img src="https://img.shields.io/badge/SOC-000000?style=for-the-badge&logo=splunk&logoColor=white" />
   <img src="https://img.shields.io/badge/PenTesting-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Active%20Directory-005A9C?style=for-the-badge" />
 </p>
 
 ---
 
-## Introduction
+## 📌 Introduction
 
-This section contains my practical **Cybersecurity** labs and investigations covering identity and access management, security monitoring, penetration testing, vulnerability assessment, and security analysis.
+This section contains my practical **Cybersecurity** labs and investigations across offensive security, identity and access management, security monitoring, email security, and SOC investigation.
 
 ## 📂 Projects
 
-### 🔐 Active Directory IAM & Security Lab
+### 🐉 [Kali Linux & Metasploitable Cybersecurity Lab](./Kali-Linux-Metasploitable-Lab)
+Reconnaissance, enumeration, vulnerability assessment, controlled exploitation, and web security testing in an isolated lab.
 
-A practical Active Directory environment focused on identity management, users, groups, organizational units, Group Policy, password security, account lockout, and access control.
+### 🏢 [Active Directory Enterprise Security Lab](./Active-Directory-Enterprise-Security-Lab)
+Windows Server Active Directory domain deployment with Windows client machines, centralized authentication, and enterprise administration.
 
-📁 [View Project](./AD-IAM)
+### 🔐 [Active Directory IAM & Group Policy Security Lab](./AD-IAM)
+Identity management, security groups, Organizational Units, Group Policy, password security, account lockout, and access control.
 
-> Note: The existing AD-IAM entry in the repository is currently a file rather than a project directory, so its project README structure needs cleanup before it can be published as a standalone project.
+### 🛡️ [Wazuh Active Directory Security Monitoring Lab](./Wazuh-Active-Directory-Security-Monitoring-Lab)
+Wazuh-based endpoint and Active Directory security monitoring, log analysis, alerts, and investigation.
 
-## 🎯 Skills Demonstrated
+### 📧 [Email Header Analysis](./Email-Header-Analysis)
+Email header examination and analysis of routing, authentication indicators, and investigation artifacts.
 
-**Active Directory • IAM • Group Policy • Access Control • Windows Security • Security Monitoring • Penetration Testing • Vulnerability Assessment**
+### 🎣 [Phishing Investigation](./Phishing-Investigation)
+Structured analysis of suspicious email activity, phishing indicators, URLs, domains, and investigation findings.
 
-## 🚀 Direction
+## 🧠 Skills Demonstrated
 
-Additional completed cybersecurity projects will be added here as their actual project folders and READMEs are published.
+**Active Directory • IAM • Group Policy • SOC Monitoring • SIEM • Wazuh • Log Analysis • Email Security • Phishing Investigation • IOC Analysis • Vulnerability Assessment • Penetration Testing • Web Security • Incident Investigation**
+
+## 📸 Project Evidence
+
+Each project contains an **assets/** folder reserved for screenshots and lab evidence. GitHub supports relative image paths in Markdown, so screenshots can be displayed directly from those folders once uploaded. citeturn0search0
