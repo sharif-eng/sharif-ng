@@ -158,7 +158,7 @@ Completed BSc Computer Science final-year project developed for internship manag
 
 <div align="center">
 
-**LEARN** → **BUILD** → **TEST** → **TROUBLESHOOT** → **SECURE** → **DOCUMENT** → **IMPROVE**
+<img src="./assets/how-i-learn.svg" alt="Circular seven-step learning workflow: Learn, Build, Test, Troubleshoot, Secure, Document, Improve" width="650" />
 
 </div>
 
