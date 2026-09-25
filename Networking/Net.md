@@ -12,24 +12,15 @@
 
 This section contains my practical **Networking** projects, currently focused on Cisco Packet Tracer and CCNA 1 networking fundamentals.
 
-## 📂 Projects
+## Projects
 
-### 🌐 CCNA 1 Small Office LAN
 
-A small office LAN implementation covering IPv4 addressing, router and switch configuration, default gateways, connectivity testing, and troubleshooting.
 
-🔗 [View Project](./CCNA1-Small-Office-LAN)
+## Skills Demonstrated
 
-### 🌐 CCNA 1 Small Business Routed Network
 
-A routed network connecting two LANs through two routers, demonstrating IPv4 addressing, router configuration, static routing, and end-to-end connectivity.
 
-🔗 [View Project](./CCNA1-Small-Business-Routed-Network)
+## Author
 
-## 🎯 Skills Demonstrated
-
-**Network Design & Configuration • IPv4 Addressing • Cisco IOS CLI • Router & Switch Configuration • Static Routing • LAN Implementation • Connectivity Testing • Network Troubleshooting • Cisco Packet Tracer**
-
-## 📚 Learning Path
-
-These projects are part of my progressive CCNA networking practice. New projects will be added as I advance through CCNA 1, CCNA 2, and CCNA 3.
+**Angole Sharif Abubakar**  
+BSc Computer Science | Cybersecurity | Cloud Security | Networking
