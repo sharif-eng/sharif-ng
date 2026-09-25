@@ -141,7 +141,7 @@ Completed BSc Computer Science final-year project developed for internship manag
 <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
 
 </div>
----
+
 # Certifications & Training
 
 - **ISC2 Certified in Cybersecurity (CC)**
@@ -153,7 +153,7 @@ Completed BSc Computer Science final-year project developed for internship manag
 - **TryHackMe Training**
 - **ALX Data Analytics**
 - **ALX AI / Professional Foundation Training**
----
+  
 # How I Learn
 
 <div align="center">
@@ -203,7 +203,7 @@ I am particularly interested in environments where I can continue learning throu
 **Building. Testing. Securing. Documenting.**
 
 </div>
----
+
 ## Author
 
 **Angole Sharif Abubakar**  
