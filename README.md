@@ -6,7 +6,8 @@
 
 ## Introduction
 
-I am a Computer Science graduate with a practical interest in **Cloud Security, Cybersecurity, and Networking**.  
+I am a Computer Science graduate with a practical interest in **Cloud Security, Cybersecurity, and Networking**.
+
 My primary career focus is **Cloud Security Engineering**, with AWS as my main cloud platform and Azure and Google Cloud as expanding areas of focus.
 
 My approach to security starts from the foundation: understanding **networks, systems, identities, infrastructure, and threats**, then applying security controls to protect and monitor them.
@@ -15,12 +16,13 @@ My approach to security starts from the foundation: understanding **networks, sy
 
 # 🎯 Objective
 
-To develop into a **Cloud Security Engineer** capable of designing, implementing, monitoring, and securing cloud infrastructure.  
+To develop into a **Cloud Security Engineer** capable of designing, implementing, monitoring, and securing cloud infrastructure.
+
 My portfolio is organized around three interconnected areas:
 
-- 🌐 **Networking** | Fundamentals, routing, switching, DNS/DHCP, traffic analysis, troubleshooting  
-- 🛡️ **Cybersecurity** | SOC, SIEM, IAM, incident response, penetration testing, AD security  
-- ☁️ **Cloud Security** | AWS IAM, VPC, EC2, S3, monitoring, secure architecture, incident response  
+- 🌐 **Networking** | Network fundamentals, routing, switching, IPv4 addressing, and troubleshooting
+- 🛡️ **Cybersecurity** | SOC, SIEM, IAM, Active Directory security, phishing analysis, vulnerability assessment, and penetration testing
+- ☁️ **Cloud Security** | AWS networking, VPC security, secure architecture, and cloud infrastructure security
 
 ---
 
@@ -28,37 +30,31 @@ My portfolio is organized around three interconnected areas:
 
 ## 🌐 Networking
 
-| Skill                           | Project                                                                                       |
-| ------------------------------- | ----------------------------------------------------------------------------------------------|
-| Packet Tracer & LAN Setup       | [Small-Office-LAN](https://github.com/sharif-eng/sharif-ng/Networking/CCNA1-Small-Office-LAN) |
-
+| Skill | Project |
+| --- | --- |
+| LAN Design & IPv4 | [CCNA 1 Small Office LAN](https://github.com/sharif-eng/sharif-ng/tree/main/Networking/CCNA1-Small-Office-LAN) |
+| Routing & Static Routes | [CCNA 1 Small Business Routed Network](https://github.com/sharif-eng/sharif-ng/tree/main/Networking/CCNA1-Small-Business-Routed-Network) |
 
 ---
 
 ## 🛡️ Cybersecurity
 
-| Skill                         | Project                                       |
-| ----------------------------- | --------------------------------------------- |
-| SIEM & Monitoring             | IAM & SOC Home Lab                            |
-| Log Analysis & Triage          | SOC Investigation Lab                         |
-| Incident Response              | SOC Investigation Lab                         |
-| Active Directory Security      | Active Directory Security Lab                 |
-| Identity & Access Management   | IAM Home Lab                                  |
-| Vulnerability Assessment       | Vulnerability Assessment Lab                  |
-| Penetration Testing            | Penetration Testing Labs                      |
+| Skill | Project |
+| --- | --- |
+| Penetration Testing & Vulnerability Assessment | [Kali Linux & Metasploitable Cybersecurity Lab](https://github.com/sharif-eng/sharif-ng/tree/main/Cybersecurity/Kali-Linux-Metasploitable-Lab) |
+| Active Directory Security | [Active Directory Enterprise Security Lab](https://github.com/sharif-eng/sharif-ng/tree/main/Cybersecurity/Active-Directory-Enterprise-Security-Lab) |
+| Identity & Access Management | [Active Directory IAM & Group Policy Security Lab](https://github.com/sharif-eng/sharif-ng/tree/main/Cybersecurity/AD-IAM) |
+| SIEM & Security Monitoring | [Wazuh Active Directory Security Monitoring Lab](https://github.com/sharif-eng/sharif-ng/tree/main/Cybersecurity/Wazuh-Active-Directory-Security-Monitoring-Lab) |
+| Email Security | [Email Header Analysis](https://github.com/sharif-eng/sharif-ng/tree/main/Cybersecurity/Email-Header-Analysis) |
+| Phishing Investigation | [Phishing Investigation](https://github.com/sharif-eng/sharif-ng/tree/main/Cybersecurity/Phishing-Investigation) |
 
 ---
 
 ## ☁️ Cloud Security
 
-| Skill                       | Project                                                                              |
-| --------------------------- | ------------------------------------------------------------------------------------ |
-| AWS IAM & Least Privilege   | [AWS IAM Lab]                                                                        |
-| AWS VPC Security            | [AWS Secure VPC Lab](https://github.com/sharif-eng/sharif-ng/Cloud_Security/AWS-VPC) |
-| EC2 Security                | [AWS EC2 Lab]                                                                        |
-| S3 Security                 | [AWS S3  Lab]                                                                        |
-| Cloud Logging & Monitoring  | [AWS Security Monitoring Lab]                                                        |
-| Secure Architecture         | [AWS Secure Architecture Project]                                                    |
+| Skill | Project |
+| --- | --- |
+| AWS VPC & Cloud Networking | [AWS VPC Security Lab](https://github.com/sharif-eng/sharif-ng/tree/main/Cloud_Security/AWS-VPC-Security-Lab) |
 
 ---
 
@@ -84,10 +80,13 @@ My portfolio is organized around three interconnected areas:
 
 # 📜 Certifications & Training
 
-- **ISC2 Certified in Cybersecurity (CC)**  
-- **ICDFA Certified Cloud Security Engineer (CCSE)** *(in progress)*  
-- Cisco Ethical Hacking • Splunk Cybersecurity Defense Analyst  
-- Cisco Networking Basics • ALX Cybersecurity • TryHackMe Training  
+- **ISC2 Certified in Cybersecurity (CC)**
+- **ICDFA Certified Cloud Security Engineer (CCSE)** *(in progress)*
+- Cisco Ethical Hacking
+- Splunk Cybersecurity Defense Analyst
+- Cisco Networking Basics
+- ALX Cybersecurity
+- TryHackMe Training
 
 ---
 
@@ -107,19 +106,10 @@ My portfolio is organized around three interconnected areas:
 
 # 🎯 Conclusion & Learning Sources
 
-My career direction is **Cloud Security Engineering**, with AWS as my primary platform and growing exposure to Azure and Google Cloud.  
+My career direction is **Cloud Security Engineering**, with AWS as my primary platform and growing exposure to Azure and Google Cloud.
+
 I am building this specialization around three complementary areas:
 
-- ☁️ **Cloud Security** | Learning through  
-  <img src="https://img.shields.io/badge/ICDFA-232F3E?style=for-the-badge&logo=cloudflare&logoColor=white" />  
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />  
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />  
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-
-- 🛡️ **Cybersecurity** | Hands‑on practice with  
-  <img src="https://img.shields.io/badge/LetsDefend-1E88E5?style=for-the-badge&logo=shield&logoColor=white" />  
-  <img src="https://img.shields.io/badge/TryHackMe-212121?style=for-the-badge&logo=tryhackme&logoColor=red" />  
-  <img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" />  
-  <img src="https://img.shields.io/badge/ALX_Africa-FF5722?style=for-the-badge&logo=alx&logoColor=white" />  
-  <img src="https://img.shields.io/badge/Cisco_NetAcad-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />  
-  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
+- ☁️ **Cloud Security** | ICDFA, AWS, Azure, and Google Cloud
+- 🛡️ **Cybersecurity** | LetsDefend, TryHackMe, Hack The Box, ALX, Cisco NetAcad, and Splunk
+- 🌐 **Networking** | Cisco networking fundamentals and practical Packet Tracer labs
