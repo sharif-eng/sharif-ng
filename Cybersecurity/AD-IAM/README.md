@@ -52,3 +52,41 @@ Add screenshots to the `assets/` folder.
 - `assets/08-windows10-client.png`
 - `assets/09-policy-verification.png`
 - `assets/10-access-control.png`
+
+## 👨‍💻 Author
+
+**Angole Sharif Abubakar**  
+BSc Computer Science | Cybersecurity | Cloud Security | Networking
+
+## 🧭 Steps
+
+1. Configure the Active Directory environment.
+2. Create Organizational Units for structured identity management.
+3. Create user accounts.
+4. Create security groups.
+5. Assign users to appropriate groups.
+6. Configure Group Policy.
+7. Apply password security requirements.
+8. Configure account lockout protection.
+9. Apply policies to the Windows client.
+10. Verify policy enforcement and access control.
+
+## ⚠️ Challenges
+
+The main challenge was ensuring that users, groups, OUs, and policies were organized consistently. Policy verification was also important because a configured GPO is only useful when it is correctly applied to the intended users or computers.
+
+## 📚 Lessons Learned
+
+- IAM is more than creating user accounts.
+- Groups provide a practical way to manage authorization.
+- OUs help structure identities and policy scope.
+- Group Policy enables centralized Windows security controls.
+- Authentication and authorization are separate security concepts.
+
+## ✅ Conclusion
+
+This lab strengthened my understanding of Active Directory IAM and showed how centralized identity, authorization, and security policies can be combined to protect an enterprise environment.
+
+## 📌 Project Status
+
+**Completed**
