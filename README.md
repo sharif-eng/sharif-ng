@@ -14,7 +14,7 @@
 > Building practical skills at the intersection of **cloud infrastructure, cybersecurity, and networking**, with a primary focus on **Cloud Security Engineering**.
 
 </div>
----
+
 ## Career Focus
 
 My primary direction is **Cloud Security Engineering**, with **AWS** as my main cloud platform.
