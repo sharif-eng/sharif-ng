@@ -216,3 +216,32 @@ Built as part of my practical progression through Cisco Networking Academy CCNA 
 **Angole Sharif Abubakar**
 
 BSc Computer Science | Cybersecurity | Cloud Security | Networking
+
+## 👨‍💻 Author
+
+**Angole Sharif Abubakar**  
+BSc Computer Science | Cybersecurity | Cloud Security | Networking
+
+## ⚠️ Challenges
+
+The main challenge was ensuring that both routers had correct interface addressing and routes to the remote LAN. A routing problem can leave local connectivity working while preventing communication between networks, so routing-table verification was an important troubleshooting step.
+
+## 📚 Lessons Learned
+
+- Routers connect separate IP networks.
+- Static routes must point traffic toward a reachable next hop.
+- Successful router-to-router connectivity does not automatically guarantee end-to-end connectivity.
+- Routing tables should be verified when remote-network communication fails.
+- Subnetting and addressing decisions directly affect routing configuration.
+
+## 🧩 Project Workflow
+
+**Topology Design → IPv4 Addressing → Router Configuration → WAN Connectivity → Static Routing → Route Verification → End-to-End Testing → Troubleshooting**
+
+## ✅ Conclusion
+
+This project strengthened my understanding of how separate LANs communicate through routers and provided practical experience with IPv4 addressing, static routing, routing-table verification, and troubleshooting.
+
+## 📌 Project Status
+
+**Completed**
