@@ -7,78 +7,31 @@
   <img src="https://img.shields.io/badge/Completed-2E8B57?style=for-the-badge" />
 </p>
 
-## 📌 Introduction
+## Introduction
 
-A practical **Active Directory enterprise lab** built with Windows Server and Windows client machines to demonstrate domain services, centralized authentication, identity management, and enterprise endpoint administration.
+A practical Active Directory enterprise lab for centralized authentication and Windows administration.
 
-## 🎯 Objectives
+## Environment / Architecture
 
-- Deploy Windows Server as an Active Directory Domain Controller
-- Configure an enterprise-style domain environment
-- Join Windows 10 and Windows 7 clients to the domain
-- Test centralized authentication
-- Manage domain computers and users
-- Practice Windows enterprise administration and security
+Windows Server 2019 Domain Controller with Windows 10 and Windows 7 domain clients in VirtualBox.
 
-## 🏗️ Environment
+## Tools & Technologies
 
-- **Windows Server**: Domain Controller
-- **Windows 10**: Domain client
-- **Windows 7**: Domain client
-- **Virtualization**: VirtualBox
+Windows Server 2019 • Active Directory Domain Services • Windows 10 • Windows 7 • VirtualBox
 
-## 🧠 Skills Demonstrated
+## Challenges
 
-**Active Directory • Windows Server Administration • Domain Services • Centralized Authentication • Identity Management • Windows Client Administration • Virtualization • Troubleshooting**
+The main challenge was keeping the configuration consistent and verifying each stage before moving to the next.
 
-## 📸 Lab Evidence
+## Lessons Learned
 
-Add screenshots to the `assets/` folder.
+The project reinforced the importance of structured implementation, verification, troubleshooting, and clear technical documentation.
 
-- `assets/01-virtualbox-environment.png`
-- `assets/02-windows-server.png`
-- `assets/03-ad-ds-installation.png`
-- `assets/04-domain-controller.png`
-- `assets/05-windows10-configuration.png`
-- `assets/06-windows10-domain-join.png`
-- `assets/07-windows7-configuration.png`
-- `assets/08-windows7-domain-join.png`
-- `assets/09-domain-authentication.png`
-- `assets/10-domain-computers.png`
+## Project Status
 
-## 👨‍💻 Author
+**Completed**
+
+## Author
 
 **Angole Sharif Abubakar**  
 BSc Computer Science | Cybersecurity | Cloud Security | Networking
-
-## 🧭 Steps
-
-1. Create the VirtualBox environment.
-2. Install and configure Windows Server.
-3. Install Active Directory Domain Services.
-4. Promote the server to a Domain Controller.
-5. Configure the domain environment.
-6. Prepare Windows 10 and Windows 7 client machines.
-7. Join the clients to the domain.
-8. Verify domain authentication.
-9. Review domain computers and connectivity.
-10. Document the completed environment.
-
-## ⚠️ Challenges
-
-Client-to-domain communication depends on correct network configuration and domain settings. Troubleshooting connectivity and ensuring that the Windows clients could communicate correctly with the Domain Controller were important parts of the lab.
-
-## 📚 Lessons Learned
-
-- Active Directory centralizes identity and administration across domain-joined systems.
-- Domain services depend on correct network and name-resolution configuration.
-- Client domain joining is a practical test of the entire environment.
-- Enterprise security begins with reliable identity and centralized administration.
-
-## ✅ Conclusion
-
-The project provided hands-on experience deploying an Active Directory environment and understanding how centralized authentication and domain administration operate in an enterprise-style network.
-
-## 📌 Project Status
-
-**Completed**
