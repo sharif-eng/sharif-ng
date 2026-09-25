@@ -1,31 +1,35 @@
-# 🌐 Networking Projects – Angole Sharif Abubakar
+# 🌐 Networking Projects | Angole Sharif Abubakar
 
-<p>
-  <img src="https://img.shields.io/badge/TCP/IP-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Routing-Switching-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/Traffic_Analysis-00457C?style=for-the-badge&logo=nmap&logoColor=white" />
+<p align="center">
+  <img src="https://img.shields.io/badge/TCP%2FIP-1679A7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Routing%20%26%20Switching-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
 </p>
 
 ---
 
 ## Introduction
 
-This repository contains my **Networking labs and projects**, focused on building and securing network infrastructure.  
-Projects here demonstrate practical skills in **TCP/IP, routing, switching, DNS/DHCP, troubleshooting, traffic analysis, and secure network architecture**.
+This section contains my practical **Networking** projects, currently focused on Cisco Packet Tracer and CCNA 1 networking fundamentals.
 
----
+## 📂 Projects
 
-## 📂 Contents
+### 🌐 CCNA 1 Small Office LAN
 
-- **Network Fundamentals Lab**  
-- **Enterprise Network Lab**  
-- **Network Services Lab (DNS/DHCP)**  
-- **Network Troubleshooting Lab**  
-- **Network Security Lab**  
-- **Network Security Architecture**
+A small office LAN implementation covering IPv4 addressing, router and switch configuration, default gateways, connectivity testing, and troubleshooting.
 
----
+🔗 [View Project](./CCNA1-Small-Office-LAN)
 
-## 🎯 Purpose
+### 🌐 CCNA 1 Small Business Routed Network
 
-This repo serves as a **portfolio of networking skills**, showing my ability to design, configure, troubleshoot, and secure networks.
+A routed network connecting two LANs through two routers, demonstrating IPv4 addressing, router configuration, static routing, and end-to-end connectivity.
+
+🔗 [View Project](./CCNA1-Small-Business-Routed-Network)
+
+## 🎯 Skills Demonstrated
+
+**Network Design & Configuration • IPv4 Addressing • Cisco IOS CLI • Router & Switch Configuration • Static Routing • LAN Implementation • Connectivity Testing • Network Troubleshooting • Cisco Packet Tracer**
+
+## 📚 Learning Path
+
+These projects are part of my progressive CCNA networking practice. New projects will be added as I advance through CCNA 1, CCNA 2, and CCNA 3.
