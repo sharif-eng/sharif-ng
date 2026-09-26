@@ -66,17 +66,26 @@ The LANs are intentionally separated into different IPv4 networks so that traffi
 
 Two LANs were created, each containing a switch and two PCs. Each switch was connected to a router, and the routers were connected through the `10.0.0.0/30` WAN network.
 
+
+![### 1. Build the Network Topology evidence](./assets/01-topology.png)
+
 ### 2. Configure the R1 LAN
 
 R1 provides connectivity for the `192.168.10.0/24` network.
 
 The LAN interface was assigned the gateway address for the local hosts.
 
+
+![### 2. Configure the R1 LAN evidence](./assets/02-r1-configuration.png)
+
 ### 3. Configure the R2 LAN
 
 R2 provides connectivity for the `192.168.20.0/24` network.
 
 The LAN interface was configured as the default gateway for the hosts at the second site.
+
+
+![### 3. Configure the R2 LAN evidence](./assets/03-r2-configuration.png)
 
 ### 4. Configure the WAN Link
 
@@ -87,6 +96,11 @@ The routers were connected using the /30 network:
 
 The /30 network provides a small point-to-point address space suitable for the two router interfaces.
 
+
+![### 4. Configure the WAN Link evidence](./assets/02-r1-configuration.png)
+
+![### 4. Configure the WAN Link evidence](./assets/03-r2-configuration.png)
+
 ### 5. Configure End Devices
 
 Hosts on the first LAN were addressed from `192.168.10.0/24`.
@@ -94,6 +108,9 @@ Hosts on the first LAN were addressed from `192.168.10.0/24`.
 Hosts on the second LAN were addressed from `192.168.20.0/24`.
 
 Each host was configured with the corresponding router interface as its default gateway.
+
+
+![### 5. Configure End Devices evidence](./assets/04-ip-addressing.png)
 
 ### 6. Configure Static Routes
 
@@ -111,6 +128,9 @@ ip route 192.168.10.0 255.255.255.0 10.0.0.1
 
 These routes tell each router how to reach the remote LAN through the other router.
 
+
+![### 6. Configure Static Routes evidence](./assets/05-static-routes.png)
+
 ### 7. Verify the Routing Configuration
 
 The router configuration and routing information were checked before performing end-to-end tests.
@@ -122,6 +142,9 @@ show ip interface brief
 show ip route
 ```
 
+
+![### 7. Verify the Routing Configuration evidence](./assets/05-static-routes.png)
+
 ### 8. Test Router-to-Router Connectivity
 
 The WAN addresses were tested first:
@@ -132,6 +155,9 @@ ping 10.0.0.2
 
 from R1, and the reverse path was checked from R2.
 
+
+![### 8. Test Router-to-Router Connectivity evidence](./assets/06-router-connectivity.png)
+
 ### 9. Test End-to-End Connectivity
 
 A host on the first LAN was used to test communication with a host on the second LAN.
@@ -139,6 +165,9 @@ A host on the first LAN was used to test communication with a host on the second
 This verifies the complete path:
 
 **Source PC → Switch → R1 → WAN → R2 → Switch → Destination PC**
+
+
+![### 9. Test End-to-End Connectivity evidence](./assets/07-end-to-end-connectivity.png)
 
 ### 10. Save the Configurations
 
@@ -149,6 +178,9 @@ copy running-config startup-config
 ```
 
 ## Configuration / Technical Details
+
+
+![### 10. Save the Configurations evidence](./assets/09-configuration-save.png)
 
 ### Routing Logic
 
