@@ -47,6 +47,9 @@ The investigation begins with the raw email header rather than only the rendered
 
 Preserving the original header is important because the investigation depends on technical metadata contained within it.
 
+
+![### 1. Obtain the Raw Header evidence](./assets/01-email-header.png)
+
 ### 2. Identify Core Header Fields
 
 Relevant fields are reviewed, including:
@@ -59,11 +62,17 @@ Relevant fields are reviewed, including:
 - `Received`
 - Authentication-related fields where present
 
+
+![### 2. Identify Core Header Fields evidence](./assets/02-header-analysis.png)
+
 ### 3. Analyze Message Routing
 
 The `Received` headers are examined to understand the path the message took through mail infrastructure.
 
 Because email systems can add multiple `Received` entries, the analyst needs to interpret the sequence rather than treating one line in isolation.
+
+
+![### 3. Analyze Message Routing evidence](./assets/04-routing-analysis.png)
 
 ### 4. Examine Sender Information
 
@@ -77,6 +86,9 @@ Where available, authentication results are examined to understand whether the m
 
 These indicators are treated as investigation evidence rather than a complete verdict by themselves.
 
+
+![### 5. Review Authentication Indicators evidence](./assets/03-authentication-analysis.png)
+
 ### 6. Extract Investigation Indicators
 
 Potential indicators are organized from the header, such as:
@@ -87,6 +99,9 @@ Potential indicators are organized from the header, such as:
 - Message identifiers
 - Authentication results
 - Timestamps
+
+
+![### 6. Extract Investigation Indicators evidence](./assets/05-findings.png)
 
 ### 7. Correlate the Evidence
 
