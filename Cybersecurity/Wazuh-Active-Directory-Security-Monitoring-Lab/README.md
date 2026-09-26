@@ -61,17 +61,26 @@ Ubuntu Server was prepared as the host for the Wazuh manager.
 
 Docker was used to deploy the Wazuh components in the lab environment.
 
+
+![### 1. Prepare the Monitoring Host evidence](./assets/01-ubuntu-server.png)
+
 ### 2. Deploy Wazuh
 
 The Wazuh manager and supporting components were deployed using Docker.
 
 The deployment was then checked before onboarding Windows endpoints.
 
+
+![### 2. Deploy Wazuh evidence](./assets/02-wazuh-deployment.png)
+
 ### 3. Prepare the Active Directory Environment
 
 The existing Windows domain environment was used as the monitored environment.
 
 This allowed endpoint telemetry to be collected from systems participating in the `shariflabs.local` domain.
+
+
+![### 3. Prepare the Active Directory Environment evidence](./assets/03-active-directory-environment.png)
 
 ### 4. Install and Configure Windows Agents
 
@@ -83,9 +92,19 @@ Wazuh agents were configured on:
 
 Each endpoint was then connected to the Wazuh manager.
 
+
+![### 4. Install and Configure Windows Agents evidence](./assets/04-windows-server-agent.png)
+
+![### 4. Install and Configure Windows Agents evidence](./assets/05-windows10-agent.png)
+
+![### 4. Install and Configure Windows Agents evidence](./assets/06-windows7-agent.png)
+
 ### 5. Verify Agent Connectivity
 
 The Wazuh dashboard was used to verify that the expected agents were connected and available for monitoring.
+
+
+![### 5. Verify Agent Connectivity evidence](./assets/07-connected-agents.png)
 
 ### 6. Troubleshoot Agent Connectivity
 
@@ -95,11 +114,19 @@ The configuration was corrected and the affected agents were subsequently connec
 
 This was an important troubleshooting exercise because SIEM visibility depends on reliable endpoint telemetry.
 
+
+![### 6. Troubleshoot Agent Connectivity evidence](./assets/07-connected-agents.png)
+
 ### 7. Observe Security Events
 
 Once the agents were connected, endpoint activity and security events could be reviewed through Wazuh.
 
 The objective was to understand how endpoint actions become security telemetry.
+
+
+![### 7. Observe Security Events evidence](./assets/08-wazuh-dashboard.png)
+
+![### 7. Observe Security Events evidence](./assets/09-security-events.png)
 
 ### 8. Investigate Alerts
 
@@ -113,9 +140,15 @@ The investigation process focused on:
 - What evidence is available?
 - What additional context is required?
 
+
+![### 8. Investigate Alerts evidence](./assets/10-alert-investigation.png)
+
 ### 9. Review Active Directory Monitoring
 
 The Windows domain environment was used to explore how centralized monitoring can provide visibility across multiple endpoints.
+
+
+![### 9. Review Active Directory Monitoring evidence](./assets/11-ad-monitoring.png)
 
 ## Configuration / Technical Details
 
