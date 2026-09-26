@@ -83,11 +83,17 @@ The IAM work was built on the existing:
 
 domain environment.
 
+
+![### 1. Establish the Active Directory Domain evidence](./assets/01-active-directory.png)
+
 ### 2. Design the OU Structure
 
 Organizational Units were created to separate users, departments, workstations, software-related objects, and service accounts.
 
 The goal was to avoid keeping all directory objects in a single flat structure.
+
+
+![### 2. Design the OU Structure evidence](./assets/02-organizational-units.png)
 
 ### 3. Create Security Groups
 
@@ -95,11 +101,17 @@ Security groups were created around functional responsibilities such as IT, cybe
 
 This provides a foundation for assigning access according to role instead of assigning permissions independently to every user.
 
+
+![### 3. Create Security Groups evidence](./assets/04-security-groups.png)
+
 ### 4. Organize User Accounts
 
 User accounts were placed within the appropriate directory structure and associated with the relevant groups.
 
 The resulting structure provides a clearer relationship between users, departments, roles, and permissions.
+
+
+![### 4. Organize User Accounts evidence](./assets/03-ad-users.png)
 
 ### 5. Configure Group Policy
 
@@ -107,23 +119,38 @@ Group Policy was used to centralize security settings.
 
 The lab included password and account-lockout controls, providing a practical example of domain-wide security policy enforcement.
 
+
+![### 5. Configure Group Policy evidence](./assets/05-group-policy.png)
+
 ### 6. Configure Password Policy
 
 Password controls were configured through Group Policy.
 
 The purpose was to move account security away from individual workstation settings and into centralized domain administration.
 
+
+![### 6. Configure Password Policy evidence](./assets/06-password-policy.png)
+
 ### 7. Configure Account Lockout
 
 Account-lockout settings were configured to provide protection against repeated unsuccessful authentication attempts.
+
+
+![### 7. Configure Account Lockout evidence](./assets/07-account-lockout.png)
 
 ### 8. Enable Security Auditing
 
 Security auditing was enabled within the environment so that relevant security activity could be observed and later consumed by monitoring tools.
 
+
+![### 8. Enable Security Auditing evidence](./assets/09-policy-verification.png)
+
 ### 9. Apply and Verify Policies
 
 The policy configuration was checked from the Windows client environment to confirm that the expected settings were being enforced.
+
+
+![### 9. Apply and Verify Policies evidence](./assets/09-policy-verification.png)
 
 ### 10. Review Access-Control Structure
 
@@ -134,6 +161,9 @@ The final IAM model was reviewed as a relationship between:
 This makes the security model easier to reason about and maintain.
 
 ## Configuration / Technical Details
+
+
+![### 10. Review Access-Control Structure evidence](./assets/10-access-control.png)
 
 ### IAM Model
 
