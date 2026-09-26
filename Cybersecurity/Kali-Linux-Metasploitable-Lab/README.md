@@ -54,17 +54,32 @@ Kali Linux and Metasploitable were deployed as virtual machines in VirtualBox.
 
 The first priority was establishing an isolated network where the two systems could communicate without targeting external systems.
 
+
+![### 1. Prepare the Virtual Lab evidence](./assets/01-virtualbox-lab.png)
+
 ### 2. Verify Network Configuration
 
 The IP configuration of both systems was checked before beginning security testing.
 
 Basic connectivity was verified to ensure that the target was reachable from Kali.
 
+
+![### 2. Verify Network Configuration evidence](./assets/02-kali-linux.png)
+
+![### 2. Verify Network Configuration evidence](./assets/03-metasploitable.png)
+
+![### 2. Verify Network Configuration evidence](./assets/04-network-configuration.png)
+
+![### 2. Verify Network Configuration evidence](./assets/05-connectivity-test.png)
+
 ### 3. Perform Reconnaissance
 
 Initial reconnaissance was used to identify the target and establish an understanding of the lab environment.
 
 The objective at this stage was discovery rather than exploitation.
+
+
+![### 3. Perform Reconnaissance evidence](./assets/06-nmap-enumeration.png)
 
 ### 4. Enumerate Services
 
@@ -78,11 +93,17 @@ nmap <target-ip>
 
 Additional enumeration can be used where appropriate to identify service versions and improve understanding of the attack surface.
 
+
+![### 4. Enumerate Services evidence](./assets/07-service-enumeration.png)
+
 ### 5. Assess the Attack Surface
 
 The discovered services were reviewed to identify areas that required further investigation.
 
 This stage connects reconnaissance results with potential vulnerabilities instead of immediately attempting exploitation.
+
+
+![### 5. Assess the Attack Surface evidence](./assets/08-vulnerability-assessment.png)
 
 ### 6. Perform Controlled Exploitation
 
@@ -90,15 +111,24 @@ Metasploit was used within the isolated lab to test selected vulnerabilities on 
 
 The objective was to understand how an exposed service can progress from discovery to exploitation in a controlled environment.
 
+
+![### 6. Perform Controlled Exploitation evidence](./assets/09-metasploit-testing.png)
+
 ### 7. Perform Web Application Testing
 
 Burp Suite was used to inspect and test web application behavior available in the lab.
 
 The focus was on understanding requests, responses, application inputs, and common web-security weaknesses.
 
+
+![### 7. Perform Web Application Testing evidence](./assets/10-web-application-testing.png)
+
 ### 8. Capture Network Evidence
 
 Wireshark was used where useful to inspect network traffic and understand how reconnaissance or application interactions appear at the packet level.
+
+
+![### 8. Capture Network Evidence evidence](./assets/11-cyber-kill-chain.png)
 
 ### 9. Document Findings
 
