@@ -65,6 +65,9 @@ The router, switch, and three PCs were placed in Packet Tracer and connected usi
 
 The topology was kept intentionally small so that addressing, device configuration, and connectivity could be verified individually.
 
+
+![### 1. Build the Physical Topology evidence](./assets/01-topology.png)
+
 ### 2. Configure the Router Interface
 
 The LAN-facing router interface was configured with:
@@ -81,6 +84,9 @@ show ip interface brief
 
 The objective was to confirm that the expected interface was present and operational before testing end-to-end communication.
 
+
+![### 2. Configure the Router Interface evidence](./assets/02-router-interface.png)
+
 ### 3. Configure PC IPv4 Addresses
 
 Each PC received a unique address from the `192.168.10.0/24` network:
@@ -90,6 +96,9 @@ Each PC received a unique address from the `192.168.10.0/24` network:
 - PC3: `192.168.10.12`
 
 The default gateway for each host was set to `192.168.10.1`.
+
+
+![### 3. Configure PC IPv4 Addresses evidence](./assets/03-ip-addressing.png)
 
 ### 4. Verify Local Connectivity
 
@@ -102,6 +111,9 @@ ping 192.168.10.1
 ```
 
 A successful response confirms that the host can reach the configured gateway across the LAN.
+
+
+![### 4. Verify Local Connectivity evidence](./assets/05-connectivity-test.png)
 
 ### 5. Verify Host-to-Host Connectivity
 
@@ -117,6 +129,9 @@ show ip interface brief
 
 This provides a quick view of interface status and assigned IP addresses.
 
+
+![### 6. Inspect the Router Configuration evidence](./assets/02-router-interface.png)
+
 ### 7. Save the Configuration
 
 The working configuration was saved so that the device configuration could be preserved.
@@ -124,6 +139,9 @@ The working configuration was saved so that the device configuration could be pr
 ```text
 copy running-config startup-config
 ```
+
+
+![### 7. Save the Configuration evidence](./assets/04-switch-configuration.png)
 
 ## Configuration / Technical Details
 
