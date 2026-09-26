@@ -49,6 +49,9 @@ The original suspicious message is treated as the primary investigation artifact
 
 Relevant content and metadata are preserved before analysis so that the investigation remains evidence-based.
 
+
+![### 1. Preserve the Suspicious Email evidence](./assets/01-suspicious-email.png)
+
 ### 2. Identify Phishing Indicators
 
 The message is reviewed for indicators such as:
@@ -62,6 +65,9 @@ The message is reviewed for indicators such as:
 - Requests for credentials or sensitive information
 
 The presence of one indicator is not automatically treated as proof. Indicators are correlated.
+
+
+![### 2. Identify Phishing Indicators evidence](./assets/02-phishing-indicators.png)
 
 ### 3. Extract URLs and Domains
 
@@ -79,11 +85,17 @@ The URLs are reviewed for characteristics that may indicate suspicious behavior,
 - Unexpected redirects
 - Credential-collection patterns
 
+
+![### 4. Analyze the URLs evidence](./assets/03-url-analysis.png)
+
 ### 5. Analyze Domains
 
 The associated domains are examined as separate indicators.
 
 Domain analysis helps distinguish the visible branding or sender identity from the infrastructure referenced by the message.
+
+
+![### 5. Analyze Domains evidence](./assets/04-domain-analysis.png)
 
 ### 6. Extract Indicators of Compromise
 
@@ -115,6 +127,9 @@ The final record should clearly separate:
 - Technique mapping
 - Investigation conclusion
 - Recommended defensive action
+
+
+![### 8. Document the Investigation Finding evidence](./assets/05-investigation-findings.png)
 
 ## Configuration / Technical Details
 
