@@ -62,11 +62,17 @@ The Windows Server and client operating systems were prepared as separate virtua
 
 The environment was kept within the lab network so that domain traffic could be tested without depending on production infrastructure.
 
+
+![### 1. Prepare the Virtual Machines evidence](./assets/01-virtualbox-environment.png)
+
 ### 2. Configure Windows Server
 
 Windows Server 2019 was configured as the server that would host the Active Directory environment.
 
 Basic system and network configuration was completed before installing the directory services role.
+
+
+![### 2. Configure Windows Server evidence](./assets/02-windows-server.png)
 
 ### 3. Install Active Directory Domain Services
 
@@ -75,6 +81,11 @@ The Active Directory Domain Services role was installed on the server.
 The server was then promoted to a domain controller for:
 
 `shariflabs.local`
+
+
+![### 3. Install Active Directory Domain Services evidence](./assets/03-ad-ds-installation.png)
+
+![### 3. Install Active Directory Domain Services evidence](./assets/04-domain-controller.png)
 
 ### 4. Verify the Domain Controller
 
@@ -88,6 +99,9 @@ The Windows 10 virtual machine was configured to communicate with the domain env
 
 The client was then prepared for domain membership.
 
+
+![### 5. Prepare the Windows 10 Client evidence](./assets/05-windows10-configuration.png)
+
 ### 6. Join Windows 10 to the Domain
 
 The Windows 10 client was joined to:
@@ -96,11 +110,19 @@ The Windows 10 client was joined to:
 
 The join process was verified from both the client and the Active Directory environment.
 
+
+![### 6. Join Windows 10 to the Domain evidence](./assets/06-windows10-domain-join.png)
+
 ### 7. Prepare and Join Windows 7
 
 The Windows 7 client was similarly configured and joined to the domain.
 
 This provided a second domain member for testing centralized management across different Windows client systems.
+
+
+![### 7. Prepare and Join Windows 7 evidence](./assets/07-windows7-configuration.png)
+
+![### 7. Prepare and Join Windows 7 evidence](./assets/08-windows7-domain-join.png)
 
 ### 8. Verify Domain Authentication
 
@@ -108,11 +130,17 @@ Domain authentication was tested using domain credentials.
 
 The purpose was to confirm that clients could participate in the centralized identity environment rather than operating only as standalone workstations.
 
+
+![### 8. Verify Domain Authentication evidence](./assets/09-domain-authentication.png)
+
 ### 9. Verify Domain Computers
 
 The domain controller was checked for the registered Windows 10 and Windows 7 computers.
 
 This provides evidence that the clients successfully became members of the domain.
+
+
+![### 9. Verify Domain Computers evidence](./assets/10-domain-computers.png)
 
 ## Configuration / Technical Details
 
