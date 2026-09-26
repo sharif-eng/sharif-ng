@@ -61,11 +61,17 @@ The first step was to define the VPC network before creating individual resource
 
 A planned CIDR range makes it easier to reason about subnet allocation and future expansion.
 
+
+![### 1. Design the VPC Address Space evidence](./assets/02-vpc-configuration.png)
+
 ### 2. Create the VPC
 
 The VPC was created as the logical network boundary for the lab.
 
 This establishes the private address space in which the subnet resources are organized.
+
+
+![### 2. Create the VPC evidence](./assets/01-vpc-overview.png)
 
 ### 3. Create Subnets
 
@@ -73,17 +79,26 @@ Subnets were created within the VPC address space.
 
 Subnetting separates resources into smaller network segments and provides a basis for controlling routing and resource placement.
 
+
+![### 3. Create Subnets evidence](./assets/03-subnets.png)
+
 ### 4. Configure Route Tables
 
 Route tables were configured to determine how traffic from the associated subnets should be forwarded.
 
 The route-table configuration was reviewed to ensure that routes matched the intended architecture.
 
+
+![### 4. Configure Route Tables evidence](./assets/04-route-table.png)
+
 ### 5. Configure Internet Connectivity
 
 An Internet Gateway was configured where internet connectivity was required.
 
 The gateway was associated with the VPC and referenced by the relevant routing configuration.
+
+
+![### 5. Configure Internet Connectivity evidence](./assets/05-internet-gateway.png)
 
 ### 6. Configure Security Groups
 
@@ -100,6 +115,9 @@ Rules were considered in terms of:
 
 The goal was to avoid treating security groups as unrestricted connectivity mechanisms.
 
+
+![### 6. Configure Security Groups evidence](./assets/06-security-group.png)
+
 ### 7. Verify the Configuration
 
 Each major VPC component was reviewed after configuration:
@@ -112,11 +130,17 @@ Each major VPC component was reviewed after configuration:
 
 Verification was performed before considering the lab complete.
 
+
+![### 7. Verify the Configuration evidence](./assets/07-connectivity-test.png)
+
 ### 8. Review the Final Architecture
 
 The completed configuration was reviewed as one system rather than as individual AWS console pages.
 
 This final review connected addressing, subnet placement, routing, internet connectivity, and security controls.
+
+
+![### 8. Review the Final Architecture evidence](./assets/08-final-architecture.png)
 
 ## Configuration / Technical Details
 
