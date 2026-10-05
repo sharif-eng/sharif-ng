@@ -121,6 +121,7 @@ Completed BSc Computer Science final-year project developed for internship manag
 | Project | Focus |
 |---|---|
 | [AWS VPC Security Lab](https://github.com/sharif-eng/sharif-ng/tree/main/Cloud_Security/AWS-VPC-Security-Lab) | VPC architecture, routing & network security |
+| [Azure Cloud Security Projects](https://github.com/sharif-eng/sharif-ng/tree/main/Cloud_Security/Azure/Azure.md) | Azure identity, network security, Key Vault, monitoring, governance & cloud operations |
 
 ## Academic Project
 
@@ -196,7 +197,13 @@ I use hands-on labs and projects to turn concepts into practical experience. Eac
 sharif-ng/
 │
 ├── Cloud_Security/
-│   └── AWS-VPC-Security-Lab/
+│   ├── AWS-VPC-Security-Lab/
+│   └── Azure/
+│       ├── A1-Azure-Blob-Static-Website/
+│       ├── A4-Entra-ID-RBAC-Employee-Access/
+│       ├── C4-Azure-Key-Vault/
+│       ├── C8-Azure-Network-Security-Group/
+│       └── D3-Azure-Monitor/
 │
 ├── Cybersecurity/
 │   ├── Kali-Linux-Metasploitable-Lab/
