@@ -123,8 +123,8 @@ This project provides a focused practical exercise in governance & cost security
 
 ## Project Status
 
-**Original Skillable activity:** Completed  
-**GitHub portfolio rebuild:** Pending fresh lab screenshots
+**Skillable activity:** Completed  
+**GitHub project:** Completed
 
 ## Author
 
