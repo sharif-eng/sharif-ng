@@ -40,6 +40,32 @@ Practical AWS networking lab covering VPC design, IPv4 CIDR addressing, subnets,
 
 **<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" /> <img src="https://img.shields.io/badge/VPC-FF9900?style=flat-square&logo=amazonaws&logoColor=white" /> <img src="https://img.shields.io/badge/Subnets-FF9900?style=flat-square" /> <img src="https://img.shields.io/badge/Routing-1D8102?style=flat-square" /> <img src="https://img.shields.io/badge/Security%20Groups-D13212?style=flat-square" />**
 
+### Azure Cloud Security
+
+**[Microsoft Entra ID and RBAC Employee Access](https://github.com/sharif-eng/sharif-ng/tree/main/Cloud_Security/Azure/A4-Entra-ID-RBAC-Employee-Access)**
+
+Practical Azure identity and access project covering Microsoft Entra ID, Azure RBAC, role scope, and least-privilege access.
+
+**<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" /> <img src="https://img.shields.io/badge/Entra%20ID-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" /> <img src="https://img.shields.io/badge/RBAC-6A1B9A?style=flat-square" />**
+
+**[Azure Network Security Group](https://github.com/sharif-eng/sharif-ng/tree/main/Cloud_Security/Azure/C8-Azure-Network-Security-Group)**
+
+Practical Azure network security project covering NSG traffic rules, association, and connectivity verification.
+
+**<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" /> <img src="https://img.shields.io/badge/NSG-D13212?style=flat-square" /> <img src="https://img.shields.io/badge/Network%20Security-232F3E?style=flat-square" />**
+
+**[Azure Key Vault Encryption and Secrets Management](https://github.com/sharif-eng/sharif-ng/tree/main/Cloud_Security/Azure/C4-Azure-Key-Vault)**
+
+Practical Azure data-security project focused on centralized key and secret management using Azure Key Vault.
+
+**<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" /> <img src="https://img.shields.io/badge/Key%20Vault-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />**
+
+**[Azure Monitor Resource Monitoring](https://github.com/sharif-eng/sharif-ng/tree/main/Cloud_Security/Azure/D3-Azure-Monitor)**
+
+Practical Azure monitoring project covering metrics, logs, resource health, and operational visibility.
+
+**<img src="https://img.shields.io/badge/Azure%20Monitor-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" /> <img src="https://img.shields.io/badge/Monitoring-6A1B9A?style=flat-square" />**
+
 ### Cybersecurity
 
 **[Wazuh Active Directory Security Monitoring Lab](https://github.com/sharif-eng/sharif-ng/tree/main/Cybersecurity/Wazuh-Active-Directory-Security-Monitoring-Lab)**
